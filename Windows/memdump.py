@@ -1,3 +1,6 @@
+# VXNET ON TOP
+# LEFEU.NVNET.PL
+
 import os
 import sys
 import ctypes
