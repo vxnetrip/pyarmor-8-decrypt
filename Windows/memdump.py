@@ -100,7 +100,7 @@ def dump_string(dump_file, pid):
 
 def main_menu():
     while True:
-        print('\nCreated by pssyho')
+        print('\nCreated by vxnet')
         print("\nMenu:")
         print(f"{Fore.CYAN}1. Check PID")
         print(f"{Fore.CYAN}2. Dump")
